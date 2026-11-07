@@ -6,10 +6,10 @@ Wersja 2.0: dla każdego z pięciu programów student wykonuje dwa zlecenia dla 
 
 Programy: GPA/FRPA, Czyste Powietrze, Bezpieczny Kredyt 2%, SCT Warszawa i budżet obywatelski Warszawy.
 
-Gra działa jako pojedynczy plik HTML. Zapisuje pracę lokalnie, eksportuje TXT/JSON i kod do istniejącego formularza Google. Nic nie wysyła automatycznie. Nowy format zawartości BARDACH2 zachowuje zewnętrzny kod BD1; prowadzący używa dekodera v2, obsługującego także wyniki v1.
+Gra działa jako pojedynczy plik HTML. Zapisuje pracę lokalnie, eksportuje TXT/JSON i kod do istniejącego formularza Google. Nic nie wysyła automatycznie. Nowy format zawartości BARDACH2 zachowuje zewnętrzny kod BD1; prowadzący używa dekodera aktualnej gry.
 
-[Wcześniejsza wersja v1](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/v1.html) zachowuje odrębną przestrzeń zapisu i pozwala dokończyć stare rozgrywki. Nie migrujemy dawnych odpowiedzi do nowych zleceń.
+Wersję 1.0 usunięto. Aktualizacja obejmuje sprawdzenie wskazówek z lekturą, objaśnienie podstawy oceny oraz słowniczki z oznaczonym pochodzeniem pojęć.
 
-Weryfikacja v2: 527 automatycznych sprawdzeń, 10 pełnych rozgrywek w obu kolejnościach klientów, 20 przejść przez ścieżki; przegląd merytoryczny i wizualny. Bez pilotażu ze studentami.
+Weryfikacja v2 po audycie: 642 automatycznych sprawdzeń, 10 pełnych rozgrywek w obu kolejnościach klientów, 20 przejść przez ścieżki; przegląd 21 stron lektury, pochodzenia pojęć i wyglądu. Słowniczek zaczyna od 9 pojęć podstawowych, pozostałe udostępnia na żądanie. Bez pilotażu ze studentami.
 
 Publikacja: GitHub Pages z gałęzi main, katalog główny. Plik index.html jest samodzielną grą.
