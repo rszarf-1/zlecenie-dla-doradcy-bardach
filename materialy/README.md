@@ -9,3 +9,17 @@
 | 5 | [Pracownia prognoz](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/krok-5/) | [Tłumaczenie 5–6](https://drive.google.com/file/d/1OUc_5HLoF95iMhLO8aBTEAaAqBBxTxay/view) | [Formularz](https://docs.google.com/forms/d/e/1FAIpQLSe9f8FNmwiIO4TEbhTFR7nSGRQE4Oip-UBD5duIzJWzV771oQ/viewform) · B5.2 |
 | 6 | [Pracownia kompromisów](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/krok-6/) | [Tłumaczenie 5–6](https://drive.google.com/file/d/1OUc_5HLoF95iMhLO8aBTEAaAqBBxTxay/view) | [Formularz](https://docs.google.com/forms/d/e/1FAIpQLSfSmRIfZi-qDYEiDFyM3Vhw87ktISLYcSsgFIxcEE9lsIwJQA/viewform) · B6.1 |
 | 7–8 | [Gabinet decyzji](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/kroki-7-8/) | [Tłumaczenie 7–8](https://drive.google.com/file/d/1KkMgQWW182UEFZQp3Kh-hTsNzIxvJ-3f/view) | [Formularz](https://docs.google.com/forms/d/e/1FAIpQLSdRx_oke4YpArXvgsTd1ElNwLVlzj2Ujy3_unoARjQGvC2Scg/viewform) · B78.2 |
+
+## Plan zajęć
+
+Wykłady: piątki, 11:30–13:00, sala 308. Ćwiczenia: wtorki, 18:30–20:00, sala 317.
+
+| Kroki | Wykład | Ćwiczenia |
+|---|---|---|
+| 1–2 | 06.11.2026 | 10.11.2026 |
+| 3–4 | 20.11.2026 | 24.11.2026 |
+| 5 | 27.11.2026 | 01.12.2026 |
+| 6 | 04.12.2026 | 08.12.2026 |
+| 7–8 | 11.12.2026 | 15.12.2026 |
+
+Kroki 1–2: wcześniejsze zajęcia. Terminy oddawania prac określają osobne zadania w Classroom.
