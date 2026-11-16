@@ -1,3 +1,9 @@
+# Gry do metody Bardacha
+
+[Wspólny spis lektur, gier i formularzy](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/materialy/)
+
+Dostępne gry: [1–2](./), [3–4](./kroki-3-4/), [5](./krok-5/), [6](./krok-6/) i [7–8](./kroki-7-8/). Gry 5 i 6 opublikowano 16 listopada 2026 z osobnymi formularzami wyników i informacji zwrotnej. Każda ma link do formularza w oknie zapisu i raporcie.
+
 # Zlecenie dla doradcy — Bardach, kroki 1 i 2
 
 [Otwórz grę](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/) · [Formularz wyników](https://docs.google.com/forms/d/e/1FAIpQLScRI06sRYjbfSok4WRtrvV26Xt6DYrZCaul-XhLUdc4B2yBfw/viewform) · [Lektura](https://drive.google.com/file/d/1khXtBtyNtTJFo1JFcNLub8UYYg1-HpbW/view?usp=sharing)
