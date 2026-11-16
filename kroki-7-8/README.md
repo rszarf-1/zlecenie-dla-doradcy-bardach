@@ -1,6 +1,6 @@
 # Gabinet decyzji — Bardach, kroki 7–8
 
-[Uruchom grę](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/kroki-7-8/) · [Formularz zapisu i informacji zwrotnej](https://docs.google.com/forms/d/e/1FAIpQLSdRx_oke4YpArXvgsTd1ElNwLVlzj2Ujy3_unoARjQGvC2Scg/viewform)
+[Uruchom grę](https://rszarf-1.github.io/zlecenie-dla-doradcy-bardach/kroki-7-8/) · [Przekład kroków 7–8](https://drive.google.com/file/d/1KkMgQWW182UEFZQp3Kh-hTsNzIxvJ-3f/view) · [Formularz zapisu i informacji zwrotnej](https://docs.google.com/forms/d/e/1FAIpQLSdRx_oke4YpArXvgsTd1ElNwLVlzj2Ujy3_unoARjQGvC2Scg/viewform)
 
 Wydanie online 2.2.1, 16 listopada 2026. Format zapisu 2.2.0 i kod B78.2 pozostają zgodne z wersją 2.2.
 
